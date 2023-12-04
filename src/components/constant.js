@@ -1,3 +1,3 @@
-const BASE_URL = "https://collegepadho.com";
+const BASE_URL = "http://backend.collegepadho.com";
 
 export default BASE_URL;
