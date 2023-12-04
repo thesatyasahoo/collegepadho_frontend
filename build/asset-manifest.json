@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c14f7165.css",
+    "main.js": "/static/js/main.8270161f.js",
+    "static/js/787.8826c123.chunk.js": "/static/js/787.8826c123.chunk.js",
+    "static/media/noimage.gif": "/static/media/noimage.7552d12da73e253861ee.gif",
+    "static/media/education_loadig2.gif": "/static/media/education_loadig2.f1b97e632a3ecd368c04.gif",
+    "static/media/home_banner.jpg": "/static/media/home_banner.0fb6e5bba98e29c91b64.jpg",
+    "static/media/BannerImage.jpg": "/static/media/BannerImage.814950c0994393b1c8e2.jpg",
+    "static/media/cartooncllg.jpg": "/static/media/cartooncllg.4bbca55d50dda3770854.jpg",
+    "static/media/young-female-graduate-against-the-background-of-university-graduates-picture-id1151567114.jpeg": "/static/media/young-female-graduate-against-the-background-of-university-graduates-picture-id1151567114.a3d93c8530112daf1717.jpeg",
+    "static/media/edu.jpg": "/static/media/edu.2c14ef0fdb3a76b91502.jpg",
+    "static/media/whatsapp_icon-icons.com_62756.png": "/static/media/whatsapp_icon-icons.com_62756.6869cb78f1bb2b072c6f.png",
+    "static/media/mba.jpg": "/static/media/mba.ca0cc37d4d52450ac728.jpg",
+    "static/media/tagmba.jpg": "/static/media/tagmba.ca0cc37d4d52450ac728.jpg",
+    "static/media/Bca.jpg": "/static/media/Bca.f66d4c5e5729220aa648.jpg",
+    "static/media/college.jpg": "/static/media/college.f66d4c5e5729220aa648.jpg",
+    "static/media/collegePadho.jpg": "/static/media/collegePadho.f66d4c5e5729220aa648.jpg",
+    "static/media/tag.jpg": "/static/media/tag.f66d4c5e5729220aa648.jpg",
+    "static/media/dark_logo.png": "/static/media/dark_logo.0e080e817764ed6f1094.png",
+    "static/media/privacy-policy.svg": "/static/media/privacy-policy.bbc1b39020c3794264e953431c318644.svg",
+    "static/media/earth.svg": "/static/media/earth.58ea1d97f05a06ff7e9ac7321b784f85.svg",
+    "static/media/tsc.svg": "/static/media/tsc.73af058b8124ad892f0e9a60184383f6.svg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/index.html",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/faq.svg": "/static/media/faq.2955a4b0974d5bfa051d94e620306208.svg",
+    "main.c14f7165.css.map": "/static/css/main.c14f7165.css.map",
+    "main.8270161f.js.map": "/static/js/main.8270161f.js.map",
+    "787.8826c123.chunk.js.map": "/static/js/787.8826c123.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c14f7165.css",
+    "static/js/main.8270161f.js"
+  ]
+}
